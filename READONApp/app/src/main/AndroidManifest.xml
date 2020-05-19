@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.android.readon">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/readon"
@@ -9,6 +11,12 @@
         android:roundIcon="@drawable/readon"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity
+            android:name=".Basiccpp"
+            android:label="Introduction to C++"></activity>
+        <activity
+            android:name=".ProgramingActivity"
+            android:label="Computer Programming" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

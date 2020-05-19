@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">ReadOn</string>
+
+
+    <!-- Home Page Strings-->
+    <string name="heading_workshop">Upcoming Workshop</string>
+    <string name="description_workshop">\"Skills for Future Career\"</string>
+
+    <string name="heading_program">Computer Programming</string>
+    <string name="description_program">\"Learn to Program like a Pro\"</string>
+
+    <string name="heading_simulation">Engineering Simulation</string>
+    <string name="description_simulation">\"For a Career in Engineering\"</string>
+
+    <string name="heading_science">Science and Technology</string>
+    <string name="description_science">\"The Must Know Facts\"</string>
+
+
+    <!-- List of resources for course details-->
+    <string name="basiccpp">Introduction to C++ Programming</string>
+    <string name="basiccpp_desc">Data types, Strings and Arrays. Learn to write simple codes with C++</string>
+
+    <string name="intercpp">Intermediate C++ Programming</string>
+    <string name="intercpp_desc">Functions, Pointers and more. Learn to add more functions to your code</string>
+
+    <string name="advancecpp">Advanced C++ Programming</string>
+    <string name="advancecpp_desc">Class and inheritance. Learn to provide more functionalities to your code</string>
+
+    <string name="misccpp">Inbuilt functions in C++ Programming</string>
+    <string name="misccpp_desc">How to ease your programming with inbuilt libraries</string>
+
+    <string name="hardwarecpp">Programming for Hardware</string>
+    <string name="hardwarecpp_desc">How to speed up your code with concepts of computer architecture</string>
+
+
+    <!-- Youtube preliminary string-->
+    <string name="youtube">https://www.youtube.com/watch?v=</string>
 </resources>

@@ -2,6 +2,13 @@
 <resources>
     <dimen name="list_item_height">88dp</dimen>
     <dimen name="list_item_width">88dp</dimen>
+
+    <dimen name="head_item_height">66dp</dimen>
+    <dimen name="head_item_width">66dp</dimen>
+
+    <dimen name="desc_item_height">22dp</dimen>
+    <dimen name="desc_item_width">22dp</dimen>
+
     <dimen name="padding_small">8dp</dimen>
     <dimen name="padding_medium">16dp</dimen>
     <dimen name="padding_large">32dp</dimen>
